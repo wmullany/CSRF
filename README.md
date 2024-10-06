@@ -10,6 +10,8 @@ The HTML file includes a form (csrfForm) with a hidden input field named name. W
 Disclaimer
 This file is provided for educational purposes only. Misusing this code for malicious purposes is illegal and unethical. Always ensure you have appropriate authorization before performing security testing on any website or web application.
 
+The following Payload is used to test your application for vulnerability (The dots need to be replaced, specific to the application)
+
   ```html
   <form method=POST> 
       <p>....</p> 
