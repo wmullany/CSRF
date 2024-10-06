@@ -12,7 +12,7 @@ This file is provided for educational purposes only. Misusing this code for mali
 
   ```html
   <form method=POST> 
-      <p>Whatever you want <input name=name></p> 
-      <input type=submit value="submit"> 
+      <p>....</p> 
+      <input ... > 
   </form> 
 
