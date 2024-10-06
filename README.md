@@ -9,3 +9,10 @@ The HTML file includes a form (csrfForm) with a hidden input field named name. W
 
 Disclaimer
 This file is provided for educational purposes only. Misusing this code for malicious purposes is illegal and unethical. Always ensure you have appropriate authorization before performing security testing on any website or web application.
+
+  ```html
+  <form method=POST> 
+      <p>Whatever you want <input name=name></p> 
+      <input type=submit value="submit"> 
+  </form> 
+
